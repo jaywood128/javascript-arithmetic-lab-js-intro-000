@@ -16,3 +16,6 @@ function add(a,b) {
   function makeInt(n) {
     return parseInt(n);
   }
+  function dec(n) {
+    return --n; 
+  }
