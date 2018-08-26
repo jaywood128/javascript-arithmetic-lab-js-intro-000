@@ -13,3 +13,6 @@ function add(a,b) {
   function inc(n) {
     return ++n;
   }
+  function makeInt(n) {
+    return parseInt(n);
+  }
