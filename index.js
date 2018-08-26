@@ -17,5 +17,5 @@ function add(a,b) {
     return parseInt(n);
   }
   function dec(n) {
-    return --n; 
+    return --n;
   }
